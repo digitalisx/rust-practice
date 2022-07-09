@@ -33,3 +33,7 @@ cargo run
 |---|---|
 |01|Hello World and Cargo|
 |02||
+
+### Reference
+- [The Rust Programming Language](https://doc.rust-lang.org)
+- [Microsoft Rust First steps](https://docs.microsoft.com/ko-kr/learn/paths/rust-first-steps/)
