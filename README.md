@@ -18,7 +18,12 @@ $ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 cargo new project_name
 ```
 
-### Compile and Run
+### Build
+```shell
+cargo build
+```
+
+### Run
 ```shell
 cargo run
 ```
