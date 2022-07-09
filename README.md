@@ -6,7 +6,7 @@
 
 ### Introduction
 
-This project inherits [VolDiff](https://github.com/H2Cyber/VolDiff)'s concept.
+This project inherits [Rust Docs](https://doc.rust-lang.org).
 
 ### Install
 ```shell
