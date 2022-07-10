@@ -19,6 +19,7 @@ This project inherits [Rust Docs](https://doc.rust-lang.org).
 |Review 01|Practice for Standard I/O|
 |Practice 04|Loop & Break|
 |Practice 05|Mutable/Immutable Variables and Constants|
+|Practice 06|Data Type|
 
 ## Commands
 
