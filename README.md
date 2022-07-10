@@ -32,7 +32,8 @@ cargo run
 |Index|Contents|
 |---|---|
 |01|Hello World and Cargo|
-|02||
+|02|Standard Input/Output|
+|03|Random Number and External Crate|
 
 ### Reference
 - [The Rust Programming Language](https://doc.rust-lang.org)
