@@ -4,9 +4,20 @@
   <em>Practice for Rust Programming Language</em>
 </p>
 
-### Introduction
+> [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)) is a multi-paradigm, general-purpose programming language. Rust emphasizes performance, type safety, and concurrency. Rust enforces memory safety — that is, that all references point to valid memory — without requiring the use of a garbage collector or reference counting present in other memory-safe languages.To simultaneously enforce memory safety and prevent concurrent data races, Rust's borrow checker tracks the object lifetime and variable scope of all references in a program during compilation. Rust is popular for systems programming but also offers high-level features including functional programming constructs.
+
+## Introduction
 
 This project inherits [Rust Docs](https://doc.rust-lang.org).
+
+## Table of contents
+|Index|Contents|
+|---|---|
+|01|Hello World and Cargo|
+|02|Standard Input/Output|
+|03|Random Number and External Crate|
+
+## Commands
 
 ### Install
 ```shell
@@ -28,12 +39,6 @@ cargo build
 cargo run
 ```
 
-### Table of contents
-|Index|Contents|
-|---|---|
-|01|Hello World and Cargo|
-|02|Standard Input/Output|
-|03|Random Number and External Crate|
 
 ### Reference
 - [The Rust Programming Language](https://doc.rust-lang.org)
