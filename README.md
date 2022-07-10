@@ -17,6 +17,7 @@ This project inherits [Rust Docs](https://doc.rust-lang.org).
 |Practice 02|Standard I/O|
 |Practice 03|Random Number and External Crate|
 |Review 01|Practice for Standard I/O|
+|Practice 04|Loop & Break|
 
 ## Commands
 
@@ -27,17 +28,17 @@ $ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 
 ### Make project
 ```shell
-cargo new project_name
+$ cargo new project_name
 ```
 
 ### Build
 ```shell
-cargo build
+$ cargo build
 ```
 
 ### Run
 ```shell
-cargo run
+$ cargo run
 ```
 
 
