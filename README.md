@@ -13,9 +13,10 @@ This project inherits [Rust Docs](https://doc.rust-lang.org).
 ## Table of contents
 |Index|Contents|
 |---|---|
-|01|Hello World and Cargo|
-|02|Standard Input/Output|
-|03|Random Number and External Crate|
+|Practice 01|Hello World and Cargo|
+|Practice 02|Standard I/O|
+|Practice 03|Random Number and External Crate|
+|Review 01|Practice for Standard I/O|
 
 ## Commands
 
